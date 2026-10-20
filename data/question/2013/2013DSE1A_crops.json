@@ -1,0 +1,93 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 2,
+   "name": "2013DSE1A_q04_files",
+   "win": [166.0, 424.0, 328.0, 487.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2013DSE1A_q06_switches",
+   "win": [80.0, 92.0, 246.0, 158.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2013DSE1A_q07_worksheets",
+   "win": [80.0, 283.0, 512.0, 487.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2013DSE1A_q08_sql",
+   "win": [117.0, 608.0, 444.0, 626.0],
+   "kind": "code"
+  },
+  {
+   "page": 4,
+   "name": "2013DSE1A_q10_table",
+   "win": [126.0, 190.0, 363.0, 243.0],
+   "kind": "table"
+  },
+  {
+   "page": 5,
+   "name": "2013DSE1A_q14_wrap",
+   "win": [108.0, 110.0, 512.0, 210.0],
+   "kind": "figure"
+  },
+  {
+   "page": 6,
+   "name": "2013DSE1A_q20_system",
+   "win": [92.0, 238.0, 300.0, 332.0],
+   "kind": "figure"
+  },
+  {
+   "page": 7,
+   "name": "2013DSE1A_q25_browser",
+   "win": [82.0, 322.0, 394.0, 406.0],
+   "kind": "table"
+  },
+  {
+   "page": 8,
+   "name": "2013DSE1A_q28_diagram",
+   "win": [116.0, 98.0, 402.0, 152.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2013DSE1A_q30_algorithm",
+   "win": [104.0, 481.0, 200.0, 556.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2013DSE1A_q31_algorithm",
+   "win": [98.0, 77.0, 335.0, 150.0],
+   "kind": "code",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 9,
+   "name": "2013DSE1A_q32_segments",
+   "win": [86.0, 246.0, 455.0, 353.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2013DSE1A_q35_flowchart",
+   "win": [112.0, 82.0, 490.0, 330.0],
+   "kind": "figure"
+  },
+  {
+   "page": 10,
+   "name": "2013DSE1A_q36_dialog",
+   "win": [120.0, 440.0, 392.0, 580.0],
+   "kind": "table",
+   "allow": ["EDGE_INK"]
+  }
+ ]
+}

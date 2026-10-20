@@ -1,0 +1,87 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 2,
+   "name": "2025DSE1A_q01_table",
+   "win": [168.0, 124.0, 436.0, 272.0],
+   "kind": "table",
+   "allow": ["FALLBACK", "INK_OUTSIDE_BORDER"]
+  },
+  {
+   "page": 4,
+   "name": "2025DSE1A_q10_table",
+   "win": [118.0, 74.0, 262.0, 145.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 6,
+   "name": "2025DSE1A_q20_network",
+   "win": [102.0, 358.0, 424.0, 433.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2025DSE1A_q27_algorithm",
+   "win": [108.0, 80.0, 218.0, 132.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2025DSE1A_q28_flowcharts",
+   "win": [92.0, 278.0, 505.0, 462.0],
+   "kind": "figure"
+  },
+  {
+   "page": 9,
+   "name": "2025DSE1A_q30_algorithm",
+   "win": [104.0, 80.0, 303.0, 143.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2025DSE1A_q31_algorithm",
+   "win": [104.0, 256.0, 195.0, 300.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2025DSE1A_q32_versions",
+   "win": [94.0, 390.0, 523.0, 478.0],
+   "kind": "figure"
+  },
+  {
+   "page": 9,
+   "name": "2025DSE1A_q33_algorithm",
+   "win": [104.0, 576.0, 257.0, 616.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2025DSE1A_q34_algorithm",
+   "win": [108.0, 84.0, 292.0, 188.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2025DSE1A_q36_algorithm",
+   "win": [108.0, 405.0, 270.0, 460.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2025DSE1A_q37_algorithm",
+   "win": [108.0, 548.0, 245.0, 646.0],
+   "kind": "code"
+  },
+  {
+   "page": 11,
+   "name": "2025DSE1A_q38_algorithm",
+   "win": [103.0, 86.0, 357.0, 208.0],
+   "kind": "code"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+[
+ {
+  "name": "2012DSE1A_q07_sheets",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   94.0,
+   316.0,
+   356.0,
+   462.0
+  ],
+  "pts": [
+   94.9,
+   317.2,
+   345.3,
+   453.4
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A",
+   "B",
+   "C",
+   "A",
+   "B"
+  ],
+  "size": [
+   1045,
+   569
+  ]
+ },
+ {
+  "name": "2012DSE1A_q08_sheets",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   114.0,
+   88.0,
+   400.0,
+   210.0
+  ],
+  "pts": [
+   118.0,
+   89.9,
+   395.5,
+   209.4
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A",
+   "B",
+   "A",
+   "B"
+  ],
+  "size": [
+   1158,
+   499
+  ]
+ },
+ {
+  "name": "2012DSE1A_q13_view",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   88.0,
+   226.0,
+   458.0,
+   335.0
+  ],
+  "pts": [
+   97.8,
+   230.3,
+   447.3,
+   326.0
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1458,
+   400
+  ]
+ },
+ {
+  "name": "2012DSE1A_q30_flowchart",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   92.0,
+   72.0,
+   474.0,
+   362.0
+  ],
+  "pts": [
+   101.4,
+   73.8,
+   456.4,
+   355.0
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1481,
+   1173
+  ]
+ },
+ {
+  "name": "2012DSE1A_q32_algorithm",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   110.0,
+   575.0,
+   230.0,
+   656.0
+  ],
+  "pts": [
+   114.4,
+   579.5,
+   217.5,
+   653.3
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   431,
+   309
+  ]
+ },
+ {
+  "name": "2012DSE1A_q35_message",
+  "kind": "table",
+  "flags": [
+   "FALLBACK"
+  ],
+  "problems": [
+   "FALLBACK"
+  ],
+  "win": [
+   131.0,
+   364.0,
+   388.0,
+   474.0
+  ],
+  "pts": [
+   132.1,
+   365.4,
+   380.9,
+   467.1
+  ],
+  "border": "FALLBACK",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1038,
+   425
+  ]
+ },
+ {
+  "name": "2012DSE1A_q40_ergonomics",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   385.0,
+   483.0,
+   533.0,
+   652.0
+  ],
+  "pts": [
+   393.9,
+   493.3,
+   514.0,
+   644.4
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   502,
+   631
+  ]
+ }
+]

@@ -1,0 +1,80 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 3,
+   "name": "2019DSE1A_q06_student",
+   "win": [108.0, 198.0, 314.0, 308.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2019DSE1A_q07_sql",
+   "win": [112.0, 494.0, 255.0, 536.0],
+   "kind": "code"
+  },
+  {
+   "page": 4,
+   "name": "2019DSE1A_q11_form",
+   "win": [120.0, 316.0, 418.0, 412.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 5,
+   "name": "2019DSE1A_q17_eticket",
+   "win": [168.0, 458.0, 258.0, 556.0],
+   "kind": "figure"
+  },
+  {
+   "page": 6,
+   "name": "2019DSE1A_q21_network",
+   "win": [115.0, 452.0, 478.0, 565.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2019DSE1A_q28_algorithm",
+   "win": [114.0, 310.0, 215.0, 376.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2019DSE1A_q30_algorithm",
+   "win": [112.0, 82.0, 290.0, 162.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2019DSE1A_q31_algorithm",
+   "win": [112.0, 272.0, 295.0, 362.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2019DSE1A_q32_algorithm",
+   "win": [112.0, 462.0, 235.0, 562.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2019DSE1A_q33_algorithm",
+   "win": [112.0, 82.0, 272.0, 138.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2019DSE1A_q34_flowchart",
+   "win": [178.0, 230.0, 485.0, 372.0],
+   "kind": "figure"
+  },
+  {
+   "page": 10,
+   "name": "2019DSE1A_q35_box",
+   "win": [98.0, 496.0, 394.0, 596.0],
+   "kind": "figure"
+  }
+ ]
+}

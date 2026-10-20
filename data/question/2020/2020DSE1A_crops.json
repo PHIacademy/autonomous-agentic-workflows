@@ -1,0 +1,77 @@
+{
+ "buf": 6.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 4,
+   "name": "2020DSE1A_q11_table",
+   "win": [99.9, 80.5, 382.1, 180.7],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 4,
+   "name": "2020DSE1A_q12_slide",
+   "win": [191.3, 379.8, 401.5, 523.8],
+   "kind": "figure"
+  },
+  {
+   "page": 5,
+   "name": "2020DSE1A_q14_specs",
+   "win": [82.6, 92.0, 536.1, 182.8],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 5,
+   "name": "2020DSE1A_q18_table",
+   "win": [92.0, 581.2, 531.7, 636.1],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 6,
+   "name": "2020DSE1A_q19_network",
+   "win": [99.2, 76.9, 406.6, 188.6],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2020DSE1A_q29_flowchart",
+   "win": [95.0, 95.0, 462.0, 395.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2020DSE1A_q31_algorithm",
+   "win": [108.0, 597.0, 225.0, 690.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2020DSE1A_q32_algorithm",
+   "win": [110.0, 80.0, 250.0, 210.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2020DSE1A_q33_algorithm",
+   "win": [110.0, 305.0, 225.0, 400.0],
+   "kind": "code"
+  },
+  {
+   "page": 11,
+   "name": "2020DSE1A_q39_dialog",
+   "win": [135.2, 79.8, 388.6, 203.7],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 11,
+   "name": "2020DSE1A_q40_ergonomic",
+   "win": [156.7, 317.9, 370.6, 544.7],
+   "kind": "figure"
+  }
+ ]
+}

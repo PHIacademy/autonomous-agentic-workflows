@@ -1,0 +1,78 @@
+{
+ "buf": 6.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 2,
+   "name": "2016DSE1A_q03_sql",
+   "win": [102.0, 307.0, 325.0, 351.0],
+   "kind": "code"
+  },
+  {
+   "page": 4,
+   "name": "2016DSE1A_q12_table",
+   "win": [100.0, 212.5, 372.0, 288.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 4,
+   "name": "2016DSE1A_q13_information_system",
+   "win": [95.0, 441.0, 461.0, 566.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2016DSE1A_q29_browser",
+   "win": [110.0, 78.0, 324.0, 141.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 8,
+   "name": "2016DSE1A_q29_options",
+   "win": [92.0, 159.0, 482.0, 282.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2016DSE1A_q30_algorithm",
+   "win": [104.0, 307.0, 260.0, 460.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2016DSE1A_q31_algorithm",
+   "win": [106.0, 548.0, 235.0, 618.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2016DSE1A_q32_algorithm",
+   "win": [84.0, 82.0, 250.0, 160.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2016DSE1A_q33_ipo",
+   "win": [62.0, 241.0, 482.0, 505.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 10,
+   "name": "2016DSE1A_q35_email",
+   "win": [104.0, 109.0, 376.0, 206.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 11,
+   "name": "2016DSE1A_q40_setting",
+   "win": [104.0, 204.0, 372.0, 341.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  }
+ ]
+}

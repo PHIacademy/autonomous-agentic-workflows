@@ -1,0 +1,67 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 3,
+   "name": "2014DSE1A_q06_spreadsheet",
+   "win": [116.0, 88.0, 412.0, 162.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2014DSE1A_q07_nutrition_table",
+   "win": [156.0, 262.0, 372.0, 352.0],
+   "kind": "table"
+  },
+  {
+   "page": 3,
+   "name": "2014DSE1A_q07_chart_types",
+   "win": [75.0, 375.0, 372.0, 447.0],
+   "kind": "figure"
+  },
+  {
+   "page": 3,
+   "name": "2014DSE1A_q08_sql",
+   "win": [109.0, 540.0, 302.0, 556.0],
+   "kind": "code"
+  },
+  {
+   "page": 4,
+   "name": "2014DSE1A_q09_pages",
+   "win": [98.0, 98.0, 340.0, 158.0],
+   "kind": "figure"
+  },
+  {
+   "page": 5,
+   "name": "2014DSE1A_q14_qr",
+   "win": [238.0, 240.0, 298.0, 296.0],
+   "kind": "figure"
+  },
+  {
+   "page": 6,
+   "name": "2014DSE1A_q19_ports",
+   "win": [140.0, 190.0, 380.0, 252.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2014DSE1A_q31_flowchart",
+   "win": [242.0, 449.0, 392.0, 592.0],
+   "kind": "figure"
+  },
+  {
+   "page": 9,
+   "name": "2014DSE1A_q32_algorithm",
+   "win": [90.0, 83.0, 262.0, 160.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2014DSE1A_q33_algorithm",
+   "win": [90.0, 262.0, 180.0, 340.0],
+   "kind": "code"
+  }
+ ]
+}
