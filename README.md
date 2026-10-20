@@ -1,8 +1,8 @@
-# MSc in AI Capstone #5: Agentic AI Systems – Adaptive HKDSE ICT Practice Tutor
+# MSc in AI Capstone #6: Agentic AI Systems – Adaptive HKDSE ICT Practice Tutor
 
 Repository: https://github.com/PHIacademy/autonomous-agentic-workflows.git
 
-A multi-agent practice tutor for HKDSE ICT Paper 1A (multiple-choice), built with [smolagents](https://github.com/huggingface/smolagents).
+A multi-agent adaptive practice tutor, built with smolagents and Claude Haiku 4.5, that serves, grades and explains past-paper multiple-choice questions from the Hong Kong Diploma of Secondary Education (HKDSE) ICT Paper 1A examination. This project implements an orchestrator with four specialised worker agents and 16 deterministic tools, and a scenario-based, evidence-based evaluation of how well its routing, grading and safeguards hold up.
 
 ## Overview
 
