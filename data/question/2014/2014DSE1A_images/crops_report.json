@@ -1,0 +1,261 @@
+[
+ {
+  "name": "2014DSE1A_q06_spreadsheet",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   116.0,
+   88.0,
+   422.0,
+   172.0
+  ],
+  "pts": [
+   119.6,
+   92.6,
+   418.0,
+   168.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A",
+   "D"
+  ],
+  "size": [
+   1245,
+   316
+  ]
+ },
+ {
+  "name": "2014DSE1A_q07_nutrition_table",
+  "kind": "table",
+  "flags": [
+   "FALLBACK"
+  ],
+  "problems": [
+   "FALLBACK"
+  ],
+  "win": [
+   156.0,
+   262.0,
+   382.0,
+   352.0
+  ],
+  "pts": [
+   161.6,
+   262.7,
+   376.3,
+   351.9
+  ],
+  "border": "FALLBACK",
+  "cut": [],
+  "leak": [],
+  "size": [
+   896,
+   373
+  ]
+ },
+ {
+  "name": "2014DSE1A_q07_chart_types",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   75.0,
+   375.0,
+   372.0,
+   447.0
+  ],
+  "pts": [
+   75.0,
+   382.5,
+   362.9,
+   437.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1201,
+   232
+  ]
+ },
+ {
+  "name": "2014DSE1A_q08_sql",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   109.0,
+   540.0,
+   302.0,
+   556.0
+  ],
+  "pts": [
+   110.8,
+   542.3,
+   300.7,
+   555.7
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   793,
+   57
+  ]
+ },
+ {
+  "name": "2014DSE1A_q09_pages",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   88.0,
+   78.0,
+   360.0,
+   168.0
+  ],
+  "pts": [
+   90.9,
+   79.6,
+   351.6,
+   161.6
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1088,
+   343
+  ]
+ },
+ {
+  "name": "2014DSE1A_q14_qr",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   238.0,
+   240.0,
+   298.0,
+   296.0
+  ],
+  "pts": [
+   248.3,
+   249.3,
+   287.3,
+   288.5
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   164,
+   165
+  ]
+ },
+ {
+  "name": "2014DSE1A_q19_ports",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   140.0,
+   190.0,
+   380.0,
+   252.0
+  ],
+  "pts": [
+   144.1,
+   196.2,
+   369.1,
+   250.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   939,
+   226
+  ]
+ },
+ {
+  "name": "2014DSE1A_q31_flowchart",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   242.0,
+   439.0,
+   392.0,
+   592.0
+  ],
+  "pts": [
+   250.2,
+   443.9,
+   378.5,
+   585.4
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   536,
+   591
+  ]
+ },
+ {
+  "name": "2014DSE1A_q32_algorithm",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   90.0,
+   83.0,
+   262.0,
+   160.0
+  ],
+  "pts": [
+   91.3,
+   85.8,
+   259.2,
+   161.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   701,
+   315
+  ]
+ },
+ {
+  "name": "2014DSE1A_q33_algorithm",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   90.0,
+   262.0,
+   180.0,
+   340.0
+  ],
+  "pts": [
+   90.9,
+   265.6,
+   168.0,
+   341.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "C"
+  ],
+  "size": [
+   323,
+   316
+  ]
+ }
+]

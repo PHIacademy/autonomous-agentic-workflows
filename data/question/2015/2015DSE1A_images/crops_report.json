@@ -1,0 +1,410 @@
+[
+ {
+  "name": "2015DSE1A_q08_document_box",
+  "kind": "figure",
+  "flags": [
+   "CUT_WORD"
+  ],
+  "problems": [],
+  "win": [
+   106.0,
+   339.0,
+   486.0,
+   480.0
+  ],
+  "pts": [
+   106.5,
+   344.1,
+   485.5,
+   479.8
+  ],
+  "border": "n/a",
+  "cut": [
+   "NN",
+   "NN",
+   "IS",
+   "NN",
+   "IS"
+  ],
+  "leak": [
+   "A"
+  ],
+  "size": [
+   1581,
+   567
+  ]
+ },
+ {
+  "name": "2015DSE1A_q10_spreadsheet",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   122.0,
+   72.0,
+   298.0,
+   200.0
+  ],
+  "pts": [
+   128.3,
+   78.9,
+   291.1,
+   193.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   680,
+   480
+  ]
+ },
+ {
+  "name": "2015DSE1A_q14_table",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   90.0,
+   73.0,
+   278.0,
+   147.0
+  ],
+  "pts": [
+   97.1,
+   74.6,
+   271.0,
+   138.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   726,
+   269
+  ]
+ },
+ {
+  "name": "2015DSE1A_q14_sql",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   113.0,
+   166.0,
+   448.0,
+   184.0
+  ],
+  "pts": [
+   114.8,
+   167.4,
+   446.4,
+   180.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1383,
+   57
+  ]
+ },
+ {
+  "name": "2015DSE1A_q18_bar_original",
+  "kind": "figure",
+  "flags": [
+   "CUT_WORD"
+  ],
+  "problems": [],
+  "win": [
+   140.0,
+   70.0,
+   230.0,
+   124.0
+  ],
+  "pts": [
+   148.4,
+   78.4,
+   223.2,
+   121.8
+  ],
+  "border": "n/a",
+  "cut": [
+   "il"
+  ],
+  "leak": [],
+  "size": [
+   313,
+   182
+  ]
+ },
+ {
+  "name": "2015DSE1A_q18_options",
+  "kind": "figure",
+  "flags": [
+   "CUT_WORD"
+  ],
+  "problems": [],
+  "win": [
+   108.0,
+   146.0,
+   392.0,
+   260.0
+  ],
+  "pts": [
+   111.7,
+   152.3,
+   378.2,
+   251.1
+  ],
+  "border": "n/a",
+  "cut": [
+   "=t",
+   "I"
+  ],
+  "leak": [
+   "B."
+  ],
+  "size": [
+   1112,
+   413
+  ]
+ },
+ {
+  "name": "2015DSE1A_q22_dropdown",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   125.0,
+   80.0,
+   456.0,
+   102.0
+  ],
+  "pts": [
+   126.8,
+   82.5,
+   454.5,
+   102.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1367,
+   83
+  ]
+ },
+ {
+  "name": "2015DSE1A_q25_design_view",
+  "kind": "table",
+  "flags": [],
+  "problems": [],
+  "win": [
+   112.0,
+   488.0,
+   296.0,
+   570.0
+  ],
+  "pts": [
+   120.8,
+   495.7,
+   286.8,
+   562.9
+  ],
+  "border": "detected",
+  "cut": [],
+  "leak": [],
+  "size": [
+   693,
+   281
+  ]
+ },
+ {
+  "name": "2015DSE1A_q25_options",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   104.0,
+   592.0,
+   516.0,
+   726.0
+  ],
+  "pts": [
+   106.2,
+   591.0,
+   511.9,
+   719.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A.",
+   "B.",
+   "C.",
+   "D."
+  ],
+  "size": [
+   1692,
+   535
+  ]
+ },
+ {
+  "name": "2015DSE1A_q28_flowchart",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   122.0,
+   367.0,
+   290.0,
+   570.0
+  ],
+  "pts": [
+   128.8,
+   375.5,
+   282.0,
+   563.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   640,
+   786
+  ]
+ },
+ {
+  "name": "2015DSE1A_q29_pseudocode",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   101.0,
+   75.0,
+   295.0,
+   101.0
+  ],
+  "pts": [
+   102.6,
+   77.0,
+   293.0,
+   99.0
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   795,
+   93
+  ]
+ },
+ {
+  "name": "2015DSE1A_q30_array",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   125.0,
+   218.0,
+   362.0,
+   250.0
+  ],
+  "pts": [
+   130.0,
+   222.4,
+   358.8,
+   249.7
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   955,
+   115
+  ]
+ },
+ {
+  "name": "2015DSE1A_q30_algorithm",
+  "kind": "code",
+  "flags": [
+   "CUT_WORD"
+  ],
+  "problems": [],
+  "win": [
+   100.0,
+   275.0,
+   225.0,
+   326.0
+  ],
+  "pts": [
+   101.7,
+   281.4,
+   221.8,
+   325.3
+  ],
+  "border": "n/a",
+  "cut": [
+   "P4"
+  ],
+  "leak": [],
+  "size": [
+   502,
+   184
+  ]
+ },
+ {
+  "name": "2015DSE1A_q31_algorithm",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   100.0,
+   426.0,
+   180.0,
+   475.0
+  ],
+  "pts": [
+   101.7,
+   429.0,
+   176.9,
+   475.3
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A",
+   "A"
+  ],
+  "size": [
+   315,
+   194
+  ]
+ },
+ {
+  "name": "2015DSE1A_q35_login",
+  "kind": "table",
+  "flags": [],
+  "problems": [],
+  "win": [
+   108.0,
+   376.0,
+   312.0,
+   478.0
+  ],
+  "pts": [
+   115.6,
+   382.2,
+   303.4,
+   470.0
+  ],
+  "border": "detected",
+  "cut": [],
+  "leak": [],
+  "size": [
+   784,
+   367
+  ]
+ }
+]

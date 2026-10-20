@@ -1,0 +1,101 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 3,
+   "name": "2015DSE1A_q08_document_box",
+   "win": [106.0, 339.0, 486.0, 480.0],
+   "kind": "figure",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 4,
+   "name": "2015DSE1A_q10_spreadsheet",
+   "win": [122.0, 72.0, 298.0, 200.0],
+   "kind": "figure"
+  },
+  {
+   "page": 5,
+   "name": "2015DSE1A_q14_table",
+   "win": [110.0, 73.0, 248.0, 137.0],
+   "kind": "figure"
+  },
+  {
+   "page": 5,
+   "name": "2015DSE1A_q14_sql",
+   "win": [113.0, 166.0, 448.0, 184.0],
+   "kind": "code"
+  },
+  {
+   "page": 6,
+   "name": "2015DSE1A_q18_bar_original",
+   "win": [140.0, 70.0, 230.0, 124.0],
+   "kind": "figure",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 6,
+   "name": "2015DSE1A_q18_options",
+   "win": [128.0, 146.0, 392.0, 260.0],
+   "kind": "figure",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 7,
+   "name": "2015DSE1A_q22_dropdown",
+   "win": [125.0, 80.0, 456.0, 102.0],
+   "kind": "figure"
+  },
+  {
+   "page": 7,
+   "name": "2015DSE1A_q25_design_view",
+   "win": [112.0, 488.0, 296.0, 570.0],
+   "kind": "table"
+  },
+  {
+   "page": 7,
+   "name": "2015DSE1A_q25_options",
+   "win": [104.0, 592.0, 486.0, 716.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2015DSE1A_q28_flowchart",
+   "win": [122.0, 377.0, 290.0, 570.0],
+   "kind": "figure"
+  },
+  {
+   "page": 9,
+   "name": "2015DSE1A_q29_pseudocode",
+   "win": [101.0, 75.0, 295.0, 101.0],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2015DSE1A_q30_array",
+   "win": [125.0, 218.0, 362.0, 250.0],
+   "kind": "figure"
+  },
+  {
+   "page": 9,
+   "name": "2015DSE1A_q30_algorithm",
+   "win": [100.0, 275.0, 225.0, 326.0],
+   "kind": "code",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 9,
+   "name": "2015DSE1A_q31_algorithm",
+   "win": [100.0, 426.0, 180.0, 475.0],
+   "kind": "code"
+  },
+  {
+   "page": 10,
+   "name": "2015DSE1A_q35_login",
+   "win": [108.0, 376.0, 312.0, 478.0],
+   "kind": "table"
+  }
+ ]
+}

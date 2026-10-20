@@ -1,0 +1,75 @@
+{
+ "buf": 6.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "elements": [
+  {
+   "page": 2,
+   "name": "2024DSE1A_q04_table",
+   "win": [105.7, 492.9, 524.0, 624.7],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 4,
+   "name": "2024DSE1A_q11_table",
+   "win": [110.7, 209.3, 358.5, 324.6],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 4,
+   "name": "2024DSE1A_q12_sql",
+   "win": [132.0, 477.0, 580.0, 524.0],
+   "kind": "code"
+  },
+  {
+   "page": 7,
+   "name": "2024DSE1A_q25_network",
+   "win": [84.8, 88.4, 517.5, 235.4],
+   "kind": "figure"
+  },
+  {
+   "page": 7,
+   "name": "2024DSE1A_q27_algorithm",
+   "win": [80.0, 478.0, 230.0, 546.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2024DSE1A_q28_algorithm",
+   "win": [127.0, 82.0, 265.0, 262.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2024DSE1A_q29_algorithm",
+   "win": [128.0, 350.0, 262.0, 428.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2024DSE1A_q30_algorithm",
+   "win": [126.5, 536.3, 229.0, 610.8],
+   "kind": "code"
+  },
+  {
+   "page": 9,
+   "name": "2024DSE1A_q31_algorithm",
+   "win": [64.0, 84.0, 330.0, 258.0],
+   "kind": "figure"
+  },
+  {
+   "page": 10,
+   "name": "2024DSE1A_q35_captcha",
+   "win": [116.0, 82.0, 462.0, 240.0],
+   "kind": "figure"
+  },
+  {
+   "page": 11,
+   "name": "2024DSE1A_q39_ergonomic",
+   "win": [110.0, 215.0, 280.0, 370.0],
+   "kind": "figure"
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+[
+ {
+  "name": "2013DSE1A_q04_files",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   166.0,
+   424.0,
+   328.0,
+   487.0
+  ],
+  "pts": [
+   167.9,
+   428.3,
+   325.4,
+   485.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   658,
+   238
+  ]
+ },
+ {
+  "name": "2013DSE1A_q06_switches",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   80.0,
+   92.0,
+   246.0,
+   158.0
+  ],
+  "pts": [
+   87.3,
+   98.8,
+   238.8,
+   151.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   633,
+   222
+  ]
+ },
+ {
+  "name": "2013DSE1A_q07_worksheets",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   80.0,
+   283.0,
+   512.0,
+   487.0
+  ],
+  "pts": [
+   80.5,
+   285.0,
+   504.2,
+   480.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "A",
+   "B",
+   "C",
+   "A",
+   "B"
+  ],
+  "size": [
+   1767,
+   814
+  ]
+ },
+ {
+  "name": "2013DSE1A_q08_sql",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   117.0,
+   608.0,
+   444.0,
+   626.0
+  ],
+  "pts": [
+   118.7,
+   611.4,
+   443.2,
+   623.8
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1354,
+   53
+  ]
+ },
+ {
+  "name": "2013DSE1A_q10_table",
+  "kind": "table",
+  "flags": [],
+  "problems": [],
+  "win": [
+   106.0,
+   190.0,
+   373.0,
+   243.0
+  ],
+  "pts": [
+   113.6,
+   192.4,
+   371.0,
+   243.2
+  ],
+  "border": "detected",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1074,
+   213
+  ]
+ },
+ {
+  "name": "2013DSE1A_q14_wrap",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   98.0,
+   90.0,
+   522.0,
+   210.0
+  ],
+  "pts": [
+   106.5,
+   97.4,
+   516.2,
+   211.0
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1709,
+   475
+  ]
+ },
+ {
+  "name": "2013DSE1A_q20_system",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   92.0,
+   228.2450408935547,
+   300.0,
+   332.0
+  ],
+  "pts": [
+   97.8,
+   235.3,
+   285.4,
+   331.7
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   783,
+   403
+  ]
+ },
+ {
+  "name": "2013DSE1A_q25_browser",
+  "kind": "table",
+  "flags": [],
+  "problems": [],
+  "win": [
+   82.0,
+   322.0,
+   394.0,
+   406.0
+  ],
+  "pts": [
+   91.8,
+   326.5,
+   383.0,
+   398.0
+  ],
+  "border": "detected",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1215,
+   299
+  ]
+ },
+ {
+  "name": "2013DSE1A_q28_diagram",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   116.0,
+   98.0,
+   402.0,
+   152.0
+  ],
+  "pts": [
+   121.6,
+   100.5,
+   393.3,
+   142.2
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1134,
+   175
+  ]
+ },
+ {
+  "name": "2013DSE1A_q30_algorithm",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   104.0,
+   481.0,
+   200.0,
+   556.0
+  ],
+  "pts": [
+   106.7,
+   483.7,
+   184.4,
+   554.9
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   325,
+   298
+  ]
+ },
+ {
+  "name": "2013DSE1A_q31_algorithm",
+  "kind": "code",
+  "flags": [
+   "CUT_WORD"
+  ],
+  "problems": [],
+  "win": [
+   98.0,
+   77.0,
+   335.0,
+   150.0
+  ],
+  "pts": [
+   99.7,
+   87.3,
+   324.2,
+   148.6
+  ],
+  "border": "n/a",
+  "cut": [
+   "input",
+   "B"
+  ],
+  "leak": [
+   "D",
+   "B",
+   "A",
+   "D"
+  ],
+  "size": [
+   937,
+   257
+  ]
+ },
+ {
+  "name": "2013DSE1A_q32_segments",
+  "kind": "code",
+  "flags": [],
+  "problems": [],
+  "win": [
+   76.0,
+   246.0,
+   455.0,
+   353.0
+  ],
+  "pts": [
+   82.0,
+   247.8,
+   451.6,
+   353.3
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1542,
+   441
+  ]
+ },
+ {
+  "name": "2013DSE1A_q35_flowchart",
+  "kind": "figure",
+  "flags": [],
+  "problems": [],
+  "win": [
+   112.0,
+   82.0,
+   490.0,
+   330.0
+  ],
+  "pts": [
+   122.3,
+   90.9,
+   480.4,
+   324.1
+  ],
+  "border": "n/a",
+  "cut": [],
+  "leak": [
+   "C",
+   "C"
+  ],
+  "size": [
+   1494,
+   973
+  ]
+ },
+ {
+  "name": "2013DSE1A_q36_dialog",
+  "kind": "table",
+  "flags": [
+   "EDGE_INK:T"
+  ],
+  "problems": [],
+  "win": [
+   120.0,
+   440.0,
+   392.0,
+   580.0
+  ],
+  "pts": [
+   131.9,
+   447.7,
+   380.9,
+   574.4
+  ],
+  "border": "detected",
+  "cut": [],
+  "leak": [],
+  "size": [
+   1039,
+   529
+  ]
+ }
+]

@@ -1,0 +1,59 @@
+{
+ "buf": 2.0,
+ "question_count": 40,
+ "skip_pages": 1,
+ "end_page": 10,
+ "elements": [
+  {
+   "page": 2,
+   "name": "2022DSE1A_q02_sql",
+   "win": [114.0, 318.0, 230.0, 376.0],
+   "kind": "code",
+   "allow": ["CUT_WORD"]
+  },
+  {
+   "page": 2,
+   "name": "2022DSE1A_q03_calendar",
+   "win": [112.0, 466.0, 222.0, 553.0],
+   "kind": "figure"
+  },
+  {
+   "page": 4,
+   "name": "2022DSE1A_q10_table",
+   "win": [104.0, 100.0, 350.0, 204.0],
+   "kind": "table",
+   "allow": ["FALLBACK"]
+  },
+  {
+   "page": 4,
+   "name": "2022DSE1A_q10_options",
+   "win": [102.0, 226.0, 500.0, 415.0],
+   "kind": "figure"
+  },
+  {
+   "page": 6,
+   "name": "2022DSE1A_q21_diagram",
+   "win": [110.0, 432.0, 380.0, 515.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2022DSE1A_q28_algorithms",
+   "win": [110.0, 86.0, 452.0, 186.0],
+   "kind": "figure"
+  },
+  {
+   "page": 8,
+   "name": "2022DSE1A_q29_algorithm",
+   "win": [106.0, 296.0, 338.0, 386.0],
+   "kind": "code"
+  },
+  {
+   "page": 8,
+   "name": "2022DSE1A_q30_algorithm",
+   "win": [106.0, 470.0, 232.0, 556.0],
+   "kind": "code",
+   "allow": ["CUT_WORD"]
+  }
+ ]
+}

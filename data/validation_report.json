@@ -1,0 +1,402 @@
+{
+  "warnings": [
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2012_paper1a_q06",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2012_paper1a_q10",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2012_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2012_paper1a_q13",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2013_paper1a_q05",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2013_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2013_paper1a_q13",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2013_paper1a_q14",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2014_paper1a_q09",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2015_paper1a_q09",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2015_paper1a_q11",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2016_paper1a_q04",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2016_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2016_paper1a_q14",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2016_paper1a_q15",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2017_paper1a_q03",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2018_paper1a_q10",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2018_paper1a_q14",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2018_paper1a_q40",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2019_paper1a_q08",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2019_paper1a_q13",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2019_paper1a_q16",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2020_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2020_paper1a_q18",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q01",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q06",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q07",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q08",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q10",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2021_paper1a_q30",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2022_paper1a_q08",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2022_paper1a_q09",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2022_paper1a_q13",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2022_paper1a_q32",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2023_paper1a_q07",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2023_paper1a_q09",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2023_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2024_paper1a_q07",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2024_paper1a_q10",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q01",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q02",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q03",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q04",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q05",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q06",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q07",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q08",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q09",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q10",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q11",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q12",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q13",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q14",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q15",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q16",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q17",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q18",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q19",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q20",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q21",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q22",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q23",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q24",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q25",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q26",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q27",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q28",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q29",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q30",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q31",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q32",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q33",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q34",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q35",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q36",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q37",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q38",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q39",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    },
+    {
+      "rule": "R1",
+      "qn_id": "ICT_2025_paper1a_q40",
+      "message": "Question not classified under any type; qn_type_id set to \"unclassified\""
+    }
+  ],
+  "blocked_rows": [],
+  "warning_count": 79,
+  "blocked_count": 0
+}
