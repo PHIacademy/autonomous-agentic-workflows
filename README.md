@@ -1,4 +1,4 @@
-# MSc in AI Capstone #5: Agentic AI Systems – Adaptive HKDSE ICT Practice Tutor
+# MSc in AI Capstone #6: Agentic AI Systems – Adaptive HKDSE ICT Practice Tutor
 
 Repository: https://github.com/PHIacademy/autonomous-agentic-workflows.git
 
